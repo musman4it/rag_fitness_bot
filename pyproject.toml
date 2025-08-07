@@ -1,0 +1,24 @@
+[project]
+name = "rag1-fitness"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "musman4it", email = "musman4it@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "chainlit>=2.6.5",
+    "crawl4ai>=0.7.2",
+    "google-generativeai>=0.8.5",
+    "python-dotenv>=1.1.1",
+    "qdrant-client>=1.15.1",
+    "sentence-transformers>=5.0.0",
+]
+
+[project.scripts]
+rag1-fitness = "rag1_fitness:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
