@@ -1,0 +1,343 @@
+[Healthline](https://www.healthline.com/)
+  * Health Conditions
+### Health Conditions
+[All](https://www.healthline.com/directory/topics)
+    * [Breast Cancer](https://www.healthline.com/breast-cancer)
+    * [Cancer Care](https://www.healthline.com/cancer-care)
+    * [Caregiving for Alzheimer's Disease](https://www.healthline.com/alzheimers-disease)
+    * [Chronic Kidney Disease](https://www.healthline.com/ckd)
+    * [Chronic Obstructive Pulmonary Disease (COPD)](https://www.healthline.com/copd)
+    * [Digestive Health](https://www.healthline.com/digestive-health)
+    * [Eye Health](https://www.healthline.com/eye-health)
+    * [Heart Health](https://www.healthline.com/heart-health)
+    * [Menopause](https://www.healthline.com/menopause)
+    * [Mental Health](https://www.healthline.com/mental-health)
+    * [Migraine](https://www.healthline.com/migraine)
+    * [Multiple Sclerosis (MS)](https://www.healthline.com/multiple-sclerosis)
+    * [Parkinson’s Disease](https://www.healthline.com/parkinsons-disease)
+    * [Psoriasis](https://www.healthline.com/psoriasis)
+    * [Rheumatoid Arthritis (RA)](https://www.healthline.com/rheumatoid-arthritis)
+    * [Sleep Health](https://www.healthline.com/sleep)
+    * [Type 2 Diabetes](https://www.healthline.com/type-2-diabetes)
+    * [Weight Management](https://www.healthline.com/weight-management)
+### Condition Spotlight
+[All](https://www.healthline.com/sponsored-topics)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_controlling-ulcerative-colitis-236x236_360.png) Controlling Ulcerative Colitis ](https://www.healthline.com/program/controlling-uc)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_navigating-life-with-biopolar-236x236-1.png) Navigating Life with Bipolar Disorder ](https://www.healthline.com/program/navigating-life-with-bipolar-disorder)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_mastering-your-geographic-atrophy-236x236_360.png) Mastering Geographic Atrophy ](https://www.healthline.com/program/mastering-your-geographic-atrophy-care)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_managing-type-2-diabetes-236x236-1.png) Managing Type 2 Diabetes ](https://www.healthline.com/program/managing-type-2-diabetes-with-food-and-fitness)
+  * Wellness
+### Wellness Topics
+[All](https://www.healthline.com/wellness)
+    * [CBD](https://www.healthline.com/cbd)
+    * [Fitness](https://www.healthline.com/fitness)
+    * [Healthy Aging](https://www.healthline.com/healthy-aging)
+    * [Hearing](https://www.healthline.com/hearing-health)
+    * [Mental Well-Being](https://www.healthline.com/mental-health)
+    * [Nutrition](https://www.healthline.com/nutrition)
+    * [Parenthood](https://www.healthline.com/parenthood)
+    * [Recipes](https://www.healthline.com/recipes)
+    * [Sexual Health](https://www.healthline.com/sexual-health)
+    * [Skin Care](https://www.healthline.com/skincare)
+    * [Sleep Health](https://www.healthline.com/sleep)
+    * [Vitamins and Supplements](https://www.healthline.com/vitamins-supplements)
+    * [Women's Wellness](https://www.healthline.com/program/womens-wellness)
+### Product Reviews
+[All](https://www.healthline.com/reviews)
+    * [At-Home Testing](https://www.healthline.com/reviews/at-home-tests)
+    * [Men's Health](https://www.healthline.com/reviews/mens-health-products)
+    * [Mental Health](https://www.healthline.com/reviews/mental-health-services-and-products)
+    * [Nutrition](https://www.healthline.com/reviews/nutrition-products)
+    * [Sleep](https://www.healthline.com/reviews/sleep-products)
+    * [Vitamins and Supplements](https://www.healthline.com/reviews/vitamin-and-supplement-products)
+    * [Women's Health](https://www.healthline.com/reviews/womens-health-products)
+### Featured Programs
+[All](https://www.healthline.com/sponsored-topics)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2025/02/HL_Dexcom-Stelo_Key-Art_Circular-Thumbnail_236x236.png) Your Guide to Glucose Health ](https://www.healthline.com/program/your-guide-to-glucose-health)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_understanding-inflammation-and-aging-236x236_360.png) Inflammation and Aging ](https://www.healthline.com/program/understanding-inflammation-and-aging)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_cold-and-flu-236x236_360.png) Cold & Flu Season Survival Guide ](https://www.healthline.com/program/cold-flu-survival-guide)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_shes-good-for-real-236x236-1.png) She’s Good for Real ](https://www.healthline.com/program/shes-good-for-real)
+  * Tools
+### Featured
+    * [Video Series](https://www.healthline.com/video)
+    * [Pill Identifier](https://www.healthline.com/pill-identifier)
+    * [FindCare](https://care.healthline.com/find-care)
+    * [Drugs A-Z](https://www.healthline.com/drugs)
+### Lessons
+[All](https://learn.healthline.com)
+    * [Crohn’s and Ulcerative Colitis Essentials](https://www.healthline.com/app/inflammatory-bowel-disease?utm_source=lessonshome)
+    * [Diabetes Nutrition](https://www.healthline.com/app/type-2-diabetes?utm_source=lessonshome)
+    * [High Cholesterol](https://www.healthline.com/app/high-cholesterol?utm_source=lessonshome)
+    * [Taming Inflammation in Psoriasis](https://www.healthline.com/app/pso-inflammation?utm_source=lessonshome)
+    * [Taming Inflammation in Psoriatic Arthritis](https://www.healthline.com/app/psa-inflammation?utm_source=lessonshome)
+### Newsletters
+[All](https://www.healthline.com/newsletter-signup)
+    * [Anxiety and Depression](https://www.healthline.com/newsletter-signup/anxiety-and-depression)
+    * [Digestive Health](https://www.healthline.com/newsletter-signup/ibd)
+    * [Heart Health](https://www.healthline.com/newsletter-signup/heart-health)
+    * [Migraine](https://www.healthline.com/newsletter-signup/migraine)
+    * [Nutrition Edition](https://www.healthline.com/newsletter-signup/nutrition)
+    * [Type 2 Diabetes](https://www.healthline.com/newsletter-signup/type-2-diabetes)
+    * [Wellness Wire](https://www.healthline.com/newsletter-signup/wellness-wire)
+### Lifestyle Quizzes
+    * [Find a Diet](https://activation.healthline.com/assessment/assessment/diets/prompt/1?v=1&tc=120226&subid=hl_dietfinder_1_)
+    * [Find Healthy Snacks](https://activation.healthline.com/assessment/assessment/pregnancy-snacks/prompt/1?v=1)
+    * [Weight Management](https://www.healthline.com/nutrition/weight-management-quiz)
+    * [How Well Do You Sleep?](https://www.healthline.com/health/healthy-sleep/quiz-how-well-do-you-sleep#1)
+    * [Are You a Workaholic?](https://www.healthline.com/health/mental-health/quiz-are-you-a-workaholic#quiz-are-you-a-workaholic)
+  * Featured
+### Health News
+[All](https://www.healthline.com/health-news)
+    * [Can 6-6-6 Walking Workout Help You Lose Weight?](https://www.healthline.com/health-news/666-walking-trend-weight-loss)
+    * [This Couple Lost 118 Pounds Together Without Medication](https://www.healthline.com/health-news/married-couple-loses-119-pounds-together-without-meds)
+    * [5 Science-Backed Ways to Live a Longer Life](https://www.healthline.com/health-news/healthy-ways-to-improve-longevity)
+    * [Morning Coffee May Help You Live Longer](https://www.healthline.com/health-news/morning-coffee-heart-health-benefits)
+    * [‘Weekend Warrior’ Workouts for Your 2025 Fitness Goals](https://www.healthline.com/health-news/weekend-warrior-workouts-beginner-tips/)
+### This Just In
+    * [5 Tips for a Healthy Lifestyle](https://www.healthline.com/health/fitness-nutrition/healthy-lifestyle-benefits)
+    * [How to Disinfect Your House After the Flu](https://www.healthline.com/health/flu/how-to-disinfect-house-after-flu)
+    * [Best Vegan and Plant-Based Meal Delivery for 2025](https://www.healthline.com/nutrition/plant-based-meal-delivery)
+    * [Does Medicare Cover Pneumonia Shots?](https://www.healthline.com/health/medicare/does-medicare-cover-pneumonia-shots)
+    * [Chromosomes, Genetics, and Your Health](https://www.healthline.com/health/chromosomes-and-genetics)
+### Top Reads
+    * [Best Multivitamins for Women](https://www.healthline.com/nutrition/multivitamins-womens-health)
+    * [Best Multivitamins for Men](https://www.healthline.com/nutrition/best-multivitamins-for-men)
+    * [Best Online Therapy Services](https://www.healthline.com/health/our-top-10-online-therapy-picks)
+    * [Online Therapy That Takes Insurance](https://www.healthline.com/health/mental-health/online-therapy-that-takes-insurance)
+    * [Buy Ozempic Online](https://www.healthline.com/nutrition/buy-ozempic-online)
+    * [Mounjaro Overview](https://www.healthline.com/health/drugs/mounjaro)
+### Video Series
+    * [Youth in Focus](https://www.healthline.com/health/video/youth-in-focus)
+    * [Healthy Harvest](https://www.healthline.com/health/nutrition/video/healthy-harvest#1)
+    * [Through an Artist's Eye](https://www.healthline.com/health/breast-cancer/metastatic-breast-cancer-artist-eye)
+    * [Future of Health](https://www.healthline.com/health/video/future-of-health)
+  * Connect
+### Find Your Bezzy Community
+Bezzy communities provide meaningful connections with others living with chronic conditions. Join Bezzy on the web or mobile app.
+[All](https://www.bezzy.com/?utm_source=healthline&utm_medium=nav-bar-connections)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Breast-Cancer.png) Breast Cancer ](https://www.bezzybc.com/lp/2/?utm_source=healthline&utm_medium=hl-nav-bar-connections)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Multiple-Sclerosis.png) Multiple Sclerosis ](https://www.bezzyms.com/?utm_source=healthline&utm_medium=hl-nav-bar-connections)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2024/11/Bezzy-DEP-Icon-Circle.png) Depression ](https://www.bezzydepression.com/?utm_source=healthline&utm_medium=hl-nav-bar-connections)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2025/01/Bezzy-MIG-Icon-Circle.png) Migraine ](https://www.bezzymigraine.com/?utm_source=healthline&utm_medium=hl-nav-bar-connections)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/Bezzy-T2D-Icon-Circle.png) Type 2 Diabetes ](https://www.bezzyt2d.com/?utm_source=healthline&utm_medium=hl-nav-bar-connections)
+    * [ ![](https://media.post.rvohealth.io/wp-content/uploads/2022/04/Bezzy-PsO.png) Psoriasis ](https://www.bezzypsoriasis.com/?utm_source=healthline&utm_medium=hl-nav-bar-connections)
+### Follow us on social media
+Can't get enough? Connect with us for all things health.
+[](http://www.facebook.com/pages/Healthline/173263326992)[](https://twitter.com/healthline)[](http://www.instagram.com/healthline)[](https://www.linkedin.com/company/healthline-media/)[](https://www.youtube.com/channel/UC7snF15Idi7px6XujWe_h9A)[](https://flipboard.com/@healthline)
+
+
+Subscribe
+#### [Nutrition](https://www.healthline.com/nutrition)
+  * Meal Kits
+    * [Overview](https://www.healthline.com/nutrition/meal-kits)
+    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
+    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
+    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
+    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
+    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
+  * [Special Diets](https://www.healthline.com/nutrition/diets)
+  * [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
+  * [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
+  * [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
+  * [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
+  * [Products](https://www.healthline.com/reviews/nutrition-products)
+  * [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
+  * [Sustainability](https://www.healthline.com/program/the-sustainable-table)
+  * [Weight Management](https://www.healthline.com/nutrition/weight-management)
+
+
+# Nutrition
+Your essential guide to healthy eating
+![](https://media.post.rvohealth.io/wp-content/uploads/2024/04/Hub_desktop_healthyeating_3600x600_v2_2.jpg)
+## Featured
+  * [](https://www.healthline.com/nutrition/eat-it-or-leave-it-a-comprehensive-ingredient-dictionary-to-simplify-your-shopping-trip)
+[Eat It or Leave It? A Comprehensive Ingredient Dictionary to Simplify Your Shopping Trip](https://www.healthline.com/nutrition/eat-it-or-leave-it-a-comprehensive-ingredient-dictionary-to-simplify-your-shopping-trip)
+[Get grocery shopping savvy with Healthline's A-Z ingredients dictionary.](https://www.healthline.com/nutrition/eat-it-or-leave-it-a-comprehensive-ingredient-dictionary-to-simplify-your-shopping-trip)
+  * [](https://www.healthline.com/nutrition/healthy-eating-refresh-letter-from-the-editor)
+[Healthy Eating Refresh: Letter from the Editor](https://www.healthline.com/nutrition/healthy-eating-refresh-letter-from-the-editor)
+[At Healthline Nutrition, we want to help you eat food that makes you feel good…](https://www.healthline.com/nutrition/healthy-eating-refresh-letter-from-the-editor)
+  * [](https://www.healthline.com/nutrition/get-your-vitamin-p-why-pleasure-matters-when-it-comes-to-what-you-eat)
+[Get Your Vitamin P: Why Pleasure Matters When It Comes to What You Eat](https://www.healthline.com/nutrition/get-your-vitamin-p-why-pleasure-matters-when-it-comes-to-what-you-eat)
+[Vitamin P (for pleasure) matters too.](https://www.healthline.com/nutrition/get-your-vitamin-p-why-pleasure-matters-when-it-comes-to-what-you-eat)
+  * [](https://www.healthline.com/nutrition/lower-grocery-bill-inflation)
+[10 Ways to Lower Your Grocery Bill as Prices Increase](https://www.healthline.com/nutrition/lower-grocery-bill-inflation)
+[Whether you're shopping for one or a large family, keep some of these strategies…](https://www.healthline.com/nutrition/lower-grocery-bill-inflation)
+
+
+## Fresh Food Fast
+[View all ](https://www.healthline.com/content-series/fresh-food-fast)
+## Healthy Eating IRL
+  * [](https://www.healthline.com/nutrition/staple-foods-to-make-healthy-eating-easy-all-week-long)
+[15 Staple Foods to Make Healthy Eating Easy All Week Long](https://www.healthline.com/nutrition/staple-foods-to-make-healthy-eating-easy-all-week-long)
+[Here's how to always have something to make for dinner.](https://www.healthline.com/nutrition/staple-foods-to-make-healthy-eating-easy-all-week-long)
+  * [](https://www.healthline.com/nutrition/how-to-eat-healthy-guide)
+[The Definitive Guide to Healthy Eating in Real Life](https://www.healthline.com/nutrition/how-to-eat-healthy-guide)
+[You may hear a lot of talk about how to eat healthy, but getting started is another matter.](https://www.healthline.com/nutrition/how-to-eat-healthy-guide)
+  * [](https://www.healthline.com/nutrition/how-to-stock-your-pantry-for-quick-easy-meals-in-minutes)
+[How to Stock Your Pantry for Quick & Easy Meals in Minutes](https://www.healthline.com/nutrition/how-to-stock-your-pantry-for-quick-easy-meals-in-minutes)
+[You'll be eating in no time.](https://www.healthline.com/nutrition/how-to-stock-your-pantry-for-quick-easy-meals-in-minutes)
+  * [](https://www.healthline.com/nutrition/plant-based-protein-the-best-the-worst-and-everything-in-between)
+[Plant-based Protein: The Best, the Worst, and Everything In Between](https://www.healthline.com/nutrition/plant-based-protein-the-best-the-worst-and-everything-in-between)
+[The pros, the cons, and how to get started.](https://www.healthline.com/nutrition/plant-based-protein-the-best-the-worst-and-everything-in-between)
+  * [](https://www.healthline.com/nutrition/healthy-grocery-shopping-guide)
+[The Definitive Guide to Healthy Grocery Shopping](https://www.healthline.com/nutrition/healthy-grocery-shopping-guide)
+[It can be hard to figure out what to buy in supermarkets when you're trying to eat…](https://www.healthline.com/nutrition/healthy-grocery-shopping-guide)
+  * [](https://www.healthline.com/nutrition/try-it-or-toss-it-the-supplements-you-need-and-the-ones-you-can-skip)
+[Try it or Toss it? The Supplements You Need and the Ones You Can Skip](https://www.healthline.com/nutrition/try-it-or-toss-it-the-supplements-you-need-and-the-ones-you-can-skip)
+[Overwhelmed by the supplement aisle? Get the facts on which ones are worth it.](https://www.healthline.com/nutrition/try-it-or-toss-it-the-supplements-you-need-and-the-ones-you-can-skip)
+
+
+## Food Freedom
+  * [](https://www.healthline.com/nutrition/finding-the-wisdom-in-food-cravings-plus-tk-techniques-to-make-peace-with-them)
+[How to Find Wisdom in Food Cravings, Plus 7 Ways to Make Peace With…](https://www.healthline.com/nutrition/finding-the-wisdom-in-food-cravings-plus-tk-techniques-to-make-peace-with-them)
+[Cravings aren't the enemy. They're a tool to help you heal.](https://www.healthline.com/nutrition/finding-the-wisdom-in-food-cravings-plus-tk-techniques-to-make-peace-with-them)
+  * [](https://www.healthline.com/nutrition/what-is-food-freedom-getting-started-weight-loss-and-tips)
+[How to Ditch Diet Culture and Learn to Trust Your Body’s Cues](https://www.healthline.com/nutrition/what-is-food-freedom-getting-started-weight-loss-and-tips)
+[Eating without worrying about numbers on the scale may sound easy — but in a culture where…](https://www.healthline.com/nutrition/what-is-food-freedom-getting-started-weight-loss-and-tips)
+  * [](https://www.healthline.com/health/diet-culture-affects-fat-black-women)
+[Dear Fat, Black Girls Who Were Not Spared from Diet Culture—I…](https://www.healthline.com/health/diet-culture-affects-fat-black-women)
+[The stereotype of the "strong Black woman" might have you believe that fat, Black women…](https://www.healthline.com/health/diet-culture-affects-fat-black-women)
+  * [](https://www.healthline.com/health/mental-health/diet-culture)
+[The Dangers of Diet Culture: 10 Women Share How Toxic It Is](https://www.healthline.com/health/mental-health/diet-culture)
+[How does diet culture affect the way we eat and feel in our bodies? When it comes to…](https://www.healthline.com/health/mental-health/diet-culture)
+
+
+## Feel-Good Food
+  * [](https://www.healthline.com/nutrition/12-healthy-high-carb-foods)
+[12 High Carb Foods That Are Incredibly Healthy](https://www.healthline.com/nutrition/12-healthy-high-carb-foods)
+[Carbs get a bad rap, but numerous healthy foods contain carbs. Here are 12 high carb foods…](https://www.healthline.com/nutrition/12-healthy-high-carb-foods)
+  * [](https://www.healthline.com/nutrition/tips-for-finding-balance-and-joy-through-food-from-divyas-ayurvedic-kitchen)
+[9 Tips for Joyful, Balanced Eating from Divya's Ayurvedic Kitchen](https://www.healthline.com/nutrition/tips-for-finding-balance-and-joy-through-food-from-divyas-ayurvedic-kitchen)
+[For Divya Alter, food isn't just fuel—it's a friend.](https://www.healthline.com/nutrition/tips-for-finding-balance-and-joy-through-food-from-divyas-ayurvedic-kitchen)
+  * [](https://www.healthline.com/nutrition/vegan-teen-chef-tabay-atkins-on-healthy-heart-based-eating)
+[Vegan Teen Chef Tabay Atkins on Healthy, Heart-Based Eating](https://www.healthline.com/nutrition/vegan-teen-chef-tabay-atkins-on-healthy-heart-based-eating)
+[This young yogi is bringing plant-based food to the streets of Orange County.](https://www.healthline.com/nutrition/vegan-teen-chef-tabay-atkins-on-healthy-heart-based-eating)
+  * [](https://www.healthline.com/nutrition/ethical-omnivore)
+[How to Be an Ethical Omnivore](https://www.healthline.com/nutrition/ethical-omnivore)
+[While vegetarian and vegan diets tend to be more environmentally friendly, not everyone…](https://www.healthline.com/nutrition/ethical-omnivore)
+
+
+## Weight Management
+  * [](https://www.healthline.com/nutrition/what-is-food-freedom-getting-started-weight-loss-and-tips)
+[How to Ditch Diet Culture and Learn to Trust Your Body’s Cues](https://www.healthline.com/nutrition/what-is-food-freedom-getting-started-weight-loss-and-tips)
+[Eating without worrying about numbers on the scale may sound easy — but in a culture where dieting is the norm, it's not…](https://www.healthline.com/nutrition/what-is-food-freedom-getting-started-weight-loss-and-tips)
+  * [](https://www.healthline.com/nutrition/bmi-for-black-women)
+[Is BMI a Fair Health Metric for Black Women?](https://www.healthline.com/nutrition/bmi-for-black-women)
+[The body mass index might not be accurate for all populations due to structural racism in dietetics. Here's if BMI is…](https://www.healthline.com/nutrition/bmi-for-black-women)
+  * [](https://www.healthline.com/nutrition/how-long-does-it-take-to-lose-weight)
+[How Long Does It Take to Lose Weight?](https://www.healthline.com/nutrition/how-long-does-it-take-to-lose-weight)
+[Weight loss is a common goal, but it helps to know what a healthy rate for weight loss is. This article explains the factors…](https://www.healthline.com/nutrition/how-long-does-it-take-to-lose-weight)
+
+
+## Vitamins and Supplements
+  * [](https://www.healthline.com/nutrition/omega-3-supplement-guide)
+[Omega-3 Supplement Guide](https://www.healthline.com/nutrition/omega-3-supplement-guide)
+[Learn the different types of omega-3 supplements and how to choose one.](https://www.healthline.com/nutrition/omega-3-supplement-guide)
+  * [](https://www.healthline.com/nutrition/immune-boosting-supplements)
+[The 15 Best Supplements to Boost Your Immune System Right Now](https://www.healthline.com/nutrition/immune-boosting-supplements)
+[No supplements will cure or prevent disease, including COVID-19, but some may help. Here…](https://www.healthline.com/nutrition/immune-boosting-supplements)
+  * [](https://www.healthline.com/nutrition/best-vitamin-d-supplements)
+[8 Best Vitamin D Supplements in 2025 for Optimal Absorption: Reviewed…](https://www.healthline.com/nutrition/best-vitamin-d-supplements)
+[These are the best 12 vitamin D supplements available, according to Healthline dietitians…](https://www.healthline.com/nutrition/best-vitamin-d-supplements)
+  * [](https://www.healthline.com/nutrition/vitamin-d-coronavirus)
+[Can Vitamin D Lower Your Risk of COVID-19?](https://www.healthline.com/nutrition/vitamin-d-coronavirus)
+[You may wonder whether supplementing with vitamin D can help reduce your risk of…](https://www.healthline.com/nutrition/vitamin-d-coronavirus)
+  * [](https://www.healthline.com/nutrition/best-fish-oil-supplement)
+[6 Best Fish Oil Supplements to Boost Your Omega-3s for 2025, According…](https://www.healthline.com/nutrition/best-fish-oil-supplement)
+[See our top seven picks for fish oil supplements for 2024.](https://www.healthline.com/nutrition/best-fish-oil-supplement)
+  * [](https://www.healthline.com/nutrition/personalized-vitamins)
+[5 Best Personalized Vitamin Subscription Services for 2025, According…](https://www.healthline.com/nutrition/personalized-vitamins)
+[Vitamin subscription services make what to take and when easier to track.](https://www.healthline.com/nutrition/personalized-vitamins)
+
+
+## Nutrition for Conditions
+  * [](https://www.healthline.com/nutrition/foods-high-blood-pressure)
+[The 17 Best Foods for High Blood Pressure](https://www.healthline.com/nutrition/foods-high-blood-pressure)
+[A healthy diet is essential for lowering and maintaining optimal blood pressure levels…](https://www.healthline.com/nutrition/foods-high-blood-pressure)
+  * [](https://www.healthline.com/nutrition/13-anti-inflammatory-foods)
+[The 13 Most Anti-Inflammatory Foods You Can Eat](https://www.healthline.com/nutrition/13-anti-inflammatory-foods)
+[Chronic inflammation can lead to weight gain and disease. This article lists 13 foods that…](https://www.healthline.com/nutrition/13-anti-inflammatory-foods)
+  * [](https://www.healthline.com/nutrition/hashimoto-diet)
+[Hashimoto Diet: Overview, Foods, Supplements, and Tips](https://www.healthline.com/nutrition/hashimoto-diet)
+[In addition to medication, numerous changes to your diet may help manage Hashimoto's…](https://www.healthline.com/nutrition/hashimoto-diet)
+  * [](https://www.healthline.com/nutrition/non-perishables-for-people-with-diabetes)
+[18 of the Best Non-Perishables for People with Diabetes](https://www.healthline.com/nutrition/non-perishables-for-people-with-diabetes)
+[If you have diabetes, you may wonder which non-perishable items have a minimal effect on…](https://www.healthline.com/nutrition/non-perishables-for-people-with-diabetes)
+  * [](https://www.healthline.com/nutrition/foods-to-avoid-arthritis)
+[Foods and Beverages to Avoid with Arthritis](https://www.healthline.com/nutrition/foods-to-avoid-arthritis)
+[Several foods and drinks can worsen symptoms of inflammatory arthritis. Here are 12 foods…](https://www.healthline.com/nutrition/foods-to-avoid-arthritis)
+  * [](https://www.healthline.com/nutrition/vestibular-migraine-diet)
+[How to Follow a Vestibular Migraine Diet](https://www.healthline.com/nutrition/vestibular-migraine-diet)
+[Your diet may play a role in your vestibular migraine symptoms. This article walks you…](https://www.healthline.com/nutrition/vestibular-migraine-diet)
+
+
+## Editors' Picks
+  * [](https://www.healthline.com/program/the-sustainable-table)
+[The Sustainable Table: Eating and Living with the Earth in Mind](https://www.healthline.com/program/the-sustainable-table)
+[Interested in eco-friendly eating and living? You've come to the right place — the…](https://www.healthline.com/program/the-sustainable-table)
+  * [](https://www.healthline.com/nutrition/reflecting-on-the-intersection-of-veganism-and-blackness-2)
+[Reflecting on the Intersection of Veganism and Blackness During Black…](https://www.healthline.com/nutrition/reflecting-on-the-intersection-of-veganism-and-blackness-2)
+[I went vegan 3 years ago. Now, I'm reflecting on choosing veganism as someone from a Black…](https://www.healthline.com/nutrition/reflecting-on-the-intersection-of-veganism-and-blackness-2)
+  * [](https://www.healthline.com/nutrition/balanced-caribbean-meal)
+[How to Build a Balanced Caribbean Meal](https://www.healthline.com/nutrition/balanced-caribbean-meal)
+[The Caribbean multi-mix principle provides a guide for building well-rounded meals with…](https://www.healthline.com/nutrition/balanced-caribbean-meal)
+  * [](https://www.healthline.com/health/food-nutrition/black-dietician-food-and-racism)
+[I’m a Black Dietitian — Here’s What I Want You to Know About Food and…](https://www.healthline.com/health/food-nutrition/black-dietician-food-and-racism)
+[Food is a cornerstone of culture. Let’s start honoring both.](https://www.healthline.com/health/food-nutrition/black-dietician-food-and-racism)
+  * [](https://www.healthline.com/nutrition/welcome-to-nutrition-editor-letter)
+[Welcome to Healthline Nutrition: A Letter from the Editor](https://www.healthline.com/nutrition/welcome-to-nutrition-editor-letter)
+[Welcome to Healthline Nutrition. We provide evidence-based, expert-written nutrition…](https://www.healthline.com/nutrition/welcome-to-nutrition-editor-letter)
+  * [](https://www.healthline.com/nutrition/im-a-dietitian-living-with-hashimotos-disease)
+[I’m a Dietitian with Hashimoto’s Disease — Here’s My Story](https://www.healthline.com/nutrition/im-a-dietitian-living-with-hashimotos-disease)
+[I'm a dietitian who has been treating people with Hashimoto's disease for years, then I…](https://www.healthline.com/nutrition/im-a-dietitian-living-with-hashimotos-disease)
+
+
+## More in Nutrition
+  * [](https://www.healthline.com/nutrition/dietitian-vs-nutritionist)
+[What’s the Difference Between a Dietitian and a Nutritionist?](https://www.healthline.com/nutrition/dietitian-vs-nutritionist)
+[You may be wondering what defines true expertise in nutrition. This article reviews the…](https://www.healthline.com/nutrition/dietitian-vs-nutritionist)
+  * [](https://www.healthline.com/nutrition/cultural-competence-in-dietetics)
+[Cultural Competence in Nutrition and Dietetics: What We Need to Know](https://www.healthline.com/nutrition/cultural-competence-in-dietetics)
+[Culture refers to the ideas, customs, and behaviors of a group of people or a society…](https://www.healthline.com/nutrition/cultural-competence-in-dietetics)
+  * [](https://www.healthline.com/nutrition/eco-friendly-food-packaging)
+[5 Types of Eco-Friendly Food Packaging (and 3 to Avoid)](https://www.healthline.com/nutrition/eco-friendly-food-packaging)
+[Plastic food packaging not only poses risks for the environment but also for your health…](https://www.healthline.com/nutrition/eco-friendly-food-packaging)
+  * [](https://www.healthline.com/nutrition/composting-beginners-guide)
+[How to Start Composting at Home](https://www.healthline.com/nutrition/composting-beginners-guide)
+[Composting is a great way to use food scraps and generate soil for your garden. This…](https://www.healthline.com/nutrition/composting-beginners-guide)
+  * [](https://www.healthline.com/nutrition/raising-kids-vegetarian)
+[I'm Raising My Kids on a Plant-Based Diet for Their Future](https://www.healthline.com/nutrition/raising-kids-vegetarian)
+[I decided to raise my children on a plant-based diet, both for their health and the good…](https://www.healthline.com/nutrition/raising-kids-vegetarian)
+  * [](https://www.healthline.com/nutrition/eco-friendly-meat-eating)
+[Can You Follow an Eco-Friendly Diet and Still Eat Meat?](https://www.healthline.com/nutrition/eco-friendly-meat-eating)
+[It's often said that plant-based diets are best for the planet, but there are plenty of…](https://www.healthline.com/nutrition/eco-friendly-meat-eating)
+  * [](https://www.healthline.com/nutrition/palm-oil-deforestation)
+[Palm Oil’s Environmental Impact: Can It Be Grown Sustainably?](https://www.healthline.com/nutrition/palm-oil-deforestation)
+[Palm oil production is known to cause mass deforestation, so many people are concerned…](https://www.healthline.com/nutrition/palm-oil-deforestation)
+  * [](https://www.healthline.com/nutrition/nutrition-in-daily-life)
+[Nutrition in Daily Life: A Trinbagonian Dietitian's Journey](https://www.healthline.com/nutrition/nutrition-in-daily-life)
+[The multicultural cuisine of Trinidad and Tobago, my home country, informed how I think…](https://www.healthline.com/nutrition/nutrition-in-daily-life)
+
+
+© 2025 Healthline Media LLC. All rights reserved. Healthline Media is an RVO Health Company. Our website services, content, and products are for informational purposes only. Healthline Media does not provide medical advice, diagnosis, or treatment. [See additional information](https://www.healthline.com/additional-information).
+  * [About Us](https://www.healthline.com/about)
+  * [Contact Us](https://www.healthline.com/about/contact-us)
+  * [Privacy Policy](https://www.healthline.com/privacy-policy)
+  * Privacy Settings
+  * [Advertising Policy](https://www.healthline.com/advertising-policy)
+  * [Health Topics](https://www.healthline.com/directory/topics)
+
+
+  * [Sitemap](https://www.healthline.com/sitemap)
+  * [Medical Affairs](https://www.healthline.com/medical-team)
+  * [Content Integrity](https://www.healthline.com/about/content-integrity)
+  * [Newsletters](https://www.healthline.com/newsletter-signup)
+  * © 2025 Healthline Media LLC. All rights reserved. Healthline Media is an RVO Health Company. Our website services, content, and products are for informational purposes only. Healthline Media does not provide medical advice, diagnosis, or treatment. [See additional information](https://www.healthline.com/additional-information).
+
+
+© 2025 Healthline Media LLC. All rights reserved. Healthline Media is an RVO Health Company. Our website services, content, and products are for informational purposes only. Healthline Media does not provide medical advice, diagnosis, or treatment. [See additional information](https://www.healthline.com/additional-information).
+[](https://www.healthlinemedia.com/?utm_source=healthline.com&utm_medium=site&utm_campaign=footer&utm_content=logo)
+[About](https://www.healthlinemedia.com/?utm_source=healthline.com&utm_medium=site&utm_campaign=footer&utm_content=about)[Careers](https://rvohealth.com/careers)[Advertise with us](https://www.healthlinemedia.com/advertise?utm_source=healthline.com&utm_medium=site&utm_campaign=footer&utm_content=advertise)
+OUR BRANDS
+[Healthline](https://www.healthline.com/)[Medical News Today](https://www.medicalnewstoday.com/)[Greatist](https://greatist.com/)[Psych Central](https://psychcentral.com/)[Bezzy](https://bezzy.com/)
+[](https://aacihealthcare.com/certificates/c143-1-2021-trust-usa/)
